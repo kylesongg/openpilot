@@ -1703,7 +1703,7 @@ FW_VERSIONS = {
     (Ecu.fwdCamera, 0x7c4, None): [
       b'\xf1\x00NQ5 FR_CMR AT USA LHD 1.00 1.00 99211-P1030 662',
       b'\xf1\x00NQ5 FR_CMR AT USA LHD 1.00 1.00 99211-P1040 663',
-      b'\xf1\x00NQ5 FR_CMR AT KOR LHD 1.00 1.00 99211-P1060 665', /* add fwdcamera version kylesongg */
+      b'\xf1\x00NQ5 FR_CMR AT KOR LHD 1.00 1.00 99211-P1060 665',
     ],
     (Ecu.fwdRadar, 0x7d0, None): [
       b'\xf1\x00NQ5__               1.00 1.02 99110-P1000         ',
